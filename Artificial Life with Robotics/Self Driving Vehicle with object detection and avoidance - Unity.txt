@@ -210,10 +210,12 @@ public class RobotController : MonoBehaviour
         {
             HandleSteer(1);
         }
-        //if the right front sensor detects the onstacle it steers the robot to the left
+        //if the right front sensor detects the obstacle it steers the robot to the left
         if (detect(SR1, s1dist, mask) || detect(SR2, s1dist, mask))
         {
             HandleSteer(-1);
         }
     }
 }
+
+//The environment for this model is available, contact me.
