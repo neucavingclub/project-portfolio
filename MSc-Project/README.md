@@ -4,22 +4,21 @@ This README document consists of whatever steps necessary to get the application
 
 ### What is this repository for? ###
 
-* Quick summary
-An Evaluation of Supervised Learning Models in the Prediction and Analysis of Customer Churn
+* An Evaluation of Supervised Learning Models in the Prediction and Analysis of Customer Churn
  
-Abstract 
-This study investigates the effectiveness of supervised learning models in predicting and analysing customer churn within the Telecommunications and Banking Marketing sectors. Utilising sector-specific datasets, the research explores imbalanced data handling techniques, employing both Random Undersampling and SMOTE to achieve balanced class representation. Evaluation of Support Vector Machines, Artificial Neural Networks, and Random Forests, post-hyperparameter tuning, identifies Random Forests as the optimal classifier across all datasets. The study emphasises the impact of resampling techniques on classifier performance pre- and post-model refinement, recommending the utilisation of Random Forests for predictive accuracy in such sectors.
+* Abstract 
+* This study investigates the effectiveness of supervised learning models in predicting and analysing customer churn within the Telecommunications and Banking Marketing sectors. Utilising sector-specific datasets, the research explores imbalanced data handling techniques, employing both Random Undersampling and SMOTE to achieve balanced class representation. Evaluation of Support Vector Machines, Artificial Neural Networks, and Random Forests, post-hyperparameter tuning, identifies Random Forests as the optimal classifier across all datasets. The study emphasises the impact of resampling techniques on classifier performance pre- and post-model refinement, recommending the utilisation of Random Forests for predictive accuracy in such sectors.
 
 ### How do I get set up? ###
 
 * Summary of set up
-To get all setup, download and install the latest version of Anaconda. Open the notebooks using the launcher of choice, ie Jupyter lab or Jupyter Notebook to view the code and run all cells in the order in which they appear. 
+* To get all setup, download and install the latest version of Anaconda. Open the notebooks using the launcher of choice, ie Jupyter lab or Jupyter Notebook to view the code and run all cells in the order in which they appear. 
 
 * Configuration
-Create a virtual environment of choice and run the commands in the anaconda terminal to launch the environment. Open and select the notebooks from this repository.
+* Create a virtual environment of choice and run the commands in the anaconda terminal to launch the environment. Open and select the notebooks from this repository.
 
 * Dependencies
-The necessary dependencies mght be installed, however the following are the requirements needed to run and possible deploy the model. 
+* The necessary dependencies mght be installed, however the following are the requirements needed to run and possible deploy the model. 
 
 Flask==1.1.2
 pandas==1.4.4
@@ -54,13 +53,11 @@ six==1.15.0
 
 ### How to run the App ###
 * How to Run the App
-To run the app use the anaconda terminal and begin to navigate into the deployment directory. Run the app by using the python app.py command and press ctrl and click on the link to be directed to the index page. 
+* To run the app use the anaconda terminal and begin to navigate into the deployment directory. Run the app by using the python app.py command and press ctrl and click on the link to be directed to the index page. 
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-This repo belongs to Simpson Chiwashira
+* This repo belongs to Simpson Chiwashira
 
-* Contact
-You can contact the owner at simpsonchiwasira@icloud.com
+* You can contact the owner at simpsonchiwasira@icloud.com
 
