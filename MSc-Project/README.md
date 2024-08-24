@@ -3,7 +3,7 @@
 This README document consists of whatever steps necessary to get the application up and running.
 
 ### What is this repository for? ###
-<<<<<<< HEAD
+
 
 * An Evaluation of Supervised Learning Models in the Prediction and Analysis of Customer Churn
  
